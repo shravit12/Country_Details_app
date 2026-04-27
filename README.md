@@ -18,8 +18,8 @@ This app allows users to explore countries across the world using real-time data
 
 
 🔗 Links
-🔗 Live Site: https://your-live-site-url.com
-💻 GitHub Repo: https://github.com/your-username/rest-countries
+🔗 Live Site: https://country-details-app-seven.vercel.app/
+💻 GitHub Repo: https://github.com/shravit12/Country_Details_app.git
 
 ⚙️ Built With
 ⚛️ React (Vite)
@@ -75,8 +75,8 @@ Some suggestions needed manual fixes (API fields issue)
 
 👨‍💻 Author
 Name: Shravit
-GitHub: https://github.com/your-username
-Frontend Mentor: https://www.frontendmentor.io/profile/yourusername
+GitHub: https://github.com/shravit12
+Frontend Mentor: https://www.frontendmentor.io/profile/shravit12
 🙌 Acknowledgments
 
 Thanks to Frontend Mentor for providing such an amazing real-world project challenge.
